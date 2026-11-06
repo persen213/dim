@@ -1,0 +1,28 @@
+{
+  "item.seniordim.senior_factor": "Senior Factor",
+  "seniordim.ability.senior": "Senior (11th-Dimensional)",
+
+  "seniordim.skill.spatial_displacement": "Spatial Displacement",
+  "seniordim.skill.spatial_displacement.desc": "Rewrite an enemy's coordinates and relocate them 8-12 blocks away to a safe spot. Bosses resist.",
+
+  "seniordim.skill.spatial_compression": "Spatial Compression",
+  "seniordim.skill.spatial_compression.desc": "Compress the space around one target for 4 seconds: it is pulled inward, heavily slowed and slowly damaged, then thrown back on release.",
+
+  "seniordim.skill.dimensional_barrier": "Dimensional Barrier",
+  "seniordim.skill.dimensional_barrier.desc": "A spherical dimensional boundary absorbs 70% of incoming damage until its durability runs out or 6 seconds pass.",
+
+  "seniordim.skill.dimensional_shift": "Dimensional Shift",
+  "seniordim.skill.dimensional_shift.desc": "Step partly out of normal space for 4 seconds: untouchable and unseen, but unable to attack or use abilities.",
+
+  "seniordim.skill.higher_dimensional_perception": "Higher-Dimensional Perception",
+  "seniordim.skill.higher_dimensional_perception.desc": "Send out a pulse that highlights nearby players and hostile mobs through walls for 5 seconds and reports their direction and distance.",
+
+  "seniordim.skill.dimensional_rupture": "Dimensional Rupture",
+  "seniordim.skill.dimensional_rupture.desc": "Tear a crack in space at the aimed spot. After 1.5 seconds it bursts, hurting and throwing back everything near it.",
+
+  "seniordim.skill.spatial_collapse": "Spatial Collapse",
+  "seniordim.skill.spatial_collapse.desc": "Collapse a large area toward one point, pulling enemies in for 3 seconds before a devastating shockwave. Does not destroy terrain.",
+
+  "seniordim.skill.eleventh_dimensional_domain": "11th-Dimensional Domain",
+  "seniordim.skill.eleventh_dimensional_domain.desc": "For 15 seconds your other Senior abilities gain range, radius, targets and barrier durability."
+}

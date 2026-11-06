@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[47,48)"
+license="Private server add-on (license to be decided by the author)"
+
+[[mods]]
+modId="seniordim"
+version="${version}"
+displayName="Senior - 11th-Dimensional Manipulation (Re:AcademyCraft add-on)"
+description='''
+Adds the Senior ability category (11th-Dimensional Manipulation) to Re:AcademyCraft:
+Dimensional Shift, Spatial Compression, Dimensional Rupture, Spatial Displacement,
+Dimensional Barrier, Higher-Dimensional Perception, Spatial Collapse and the 11th-Dimensional Domain.
+'''
+
+[[dependencies.seniordim]]
+modId="academy"
+mandatory=true
+versionRange="[1.5.0,1.6)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.seniordim]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,48)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.seniordim]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
